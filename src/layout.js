@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, Intro, Project, Footer, About } from './Components';
+import { Navbar, Intro, Project, Footer, About } from './components';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 export default function Layout() {
     return (
